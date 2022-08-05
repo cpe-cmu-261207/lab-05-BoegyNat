@@ -7,5 +7,5 @@
 https://o365cmu-my.sharepoint.com/:b:/g/personal/chayanin_s_cmu_ac_th1/EaPu0VTki21FvlzSm7qULtoBpiYzYO8Gu5Jg2YWXesY3fA?e=bSiLfc
 
 ใส่ GitHub page URL ด้านล่างนี้
-
+https://cpe-cmu-261207.github.io/lab-05-BoegyNat/
 [YOUR GITHUB PAGE URL]
